@@ -1,7 +1,10 @@
 ![Publishing](https://github.com/vaugenwake/vuex-store-cli/workflows/Node.js%20Package/badge.svg)
 
 # vuex-store-cli
-CLI Utility to make generating Vuex store components quicker and easier.
+
+## No More right-click > new file!
+
+The Vuex CLI Utility makes it quick to generate a new store scaffold or generate new elemenets for your existing store.
 
 ### Install
 `npm install -g vx-store-generator`
