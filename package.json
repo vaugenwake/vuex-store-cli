@@ -1,6 +1,6 @@
 {
   "name": "vx-store-generator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Adds helpful utility commands to generate vuex datastores and modules",
   "main": "./src/index.js",
   "bin": {
