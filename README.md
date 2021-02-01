@@ -1,3 +1,5 @@
+![Publishing](https://github.com/vaugenwake/vuex-store-cli/workflows/Node.js%20Package/badge.svg)
+
 # vuex-store-cli
 CLI Utility to make generating Vuex store components quicker and easier.
 
